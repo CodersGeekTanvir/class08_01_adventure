@@ -106,6 +106,12 @@
         width: 440px;
         margin: auto;
     }
+    .banner_overlay {
+        padding: 10px 0 100px;
+    }
+    .header {
+        padding-bottom: 120px;
+    }
     .header .logo {
         width: 100%;
         font-size:20px;
@@ -261,7 +267,7 @@
         margin: auto;
     }
     .banner_overlay {
-        padding: 10px 0 128px;
+        padding: 12px 0 50px;
     }
     .header {
         padding-bottom: 70px;
@@ -358,6 +364,9 @@
         padding: 4px;
         font-size: 14px;
     }
+    .world_section {
+        padding-bottom: 30px;
+    }
     .bottom_banner_overlay {
         padding: 30px 0;
     }
@@ -381,6 +390,7 @@
         padding: 4px;
         font-size: 11px;
     }
+
     .col_left {
         width: 100%;
         flex-basis: 0 0 auto;
