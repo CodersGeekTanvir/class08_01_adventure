@@ -199,7 +199,7 @@ transition-duration: 0.3s;
 
     width: 50%;
     flex-basis: 0 0 auto;
-    padding: 60px;
+    padding: 20px;
 }
 .event_gallery{
 
@@ -209,6 +209,8 @@ transition-duration: 0.3s;
   height: 300px;
   object-fit: cover;
   transition-duration: 0.3s;
+  width: 100%;
+  border-radius: 10px;
 }
 .gallery_image img:hover{
     box-shadow:10px 10px 6px 2px #C7C7C7 ;
@@ -304,6 +306,7 @@ font-weight: 300;
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 600;
+    border: 2px solid transparent;
 
 }
 .bottom_banner_button a:hover{
@@ -351,11 +354,13 @@ font-weight: 300;
 }
 .tour_content .banner_button a{
 
+
+
 }
 .tour_content .banner_button a:hover{
 
     color: #333;
-    border: 2px solid #FB2056;
+    border: 1px solid #FB2056;
 }
 .col_right{
 
